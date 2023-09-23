@@ -1,0 +1,4 @@
+# ninja log v5
+2	1332	7171993619089394	CMakeFiles/TestTask.dir/main.cpp.obj	3d41a0e1369ec0aa
+1332	1563	7171993621401831	TestTask.exe	5ebb96ac6178a35a
+1	204	7172007252435720	build.ninja	4b565f07c69a128d

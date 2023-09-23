@@ -1,0 +1,3 @@
+C:/Users/PiA/CLionProjects/TestTask/cmake-build-debug-mingw/CMakeFiles/TestTask.dir
+C:/Users/PiA/CLionProjects/TestTask/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/PiA/CLionProjects/TestTask/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
