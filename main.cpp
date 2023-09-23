@@ -61,5 +61,6 @@ int main() {
 
     std::cout << "Total sum: " << sumOfRadii << '\n';
 
+    std::cin.get();
     return EXIT_SUCCESS;
 }
